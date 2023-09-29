@@ -14,7 +14,7 @@ function AddTask(){
     }
   
 
-    inputBox.value('')
+    inputBox.value=""
     saveData()
 }
 
